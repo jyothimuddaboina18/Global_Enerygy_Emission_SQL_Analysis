@@ -51,6 +51,7 @@ This project demonstrates strong SQL skills in querying, data analysis, and extr
 
 ## 📁 Files Structure
 global-energy-emission-analysis-sql/
+
 │
 ├── MySQL_Proj1.sql      
 └── README.md
